@@ -1,0 +1,9 @@
+id,nom,prenom,classe,module,note,coefficient,semestre
+1,El Amrani,Yassine,CP1,Analyse,14.5,2,S1
+2,Benali,Sara,CP1,Analyse,16.0,2,S1
+3,Alaoui,Adam,CP1,Algebre,12.5,2,S1
+4,Chakir,Imane,CP1,Informatique,15.0,2,S1
+5,Berrada,Ayoub,CP2,Analyse,13.5,2,S1
+6,El Idrissi,Meryem,CP2,Physique,15.5,2,S1
+7,Tazi,Rayane,CP2,Informatique,17.0,2,S1
+8,Benabdallah,Salma,CP2,Algebre,11.5,2,S2
